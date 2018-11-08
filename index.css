@@ -1,1 +1,24 @@
 <!DOCTYPE css>
+body {
+  text-align: center;
+  background: url("https://www.telegraph.co.uk/content/dam/investing/2017/03/10/JS122272751_wwwAlamycom_Edinburgh-Views-xlarge.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+header {
+  text-align: center;
+  color: white;
+}
+ul {
+ padding: 10px;
+ background: purple;
+}
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ color: white;
+}
+a {
+ color: white;
+}
