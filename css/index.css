@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  background: url("https://www.telegraph.co.uk/content/dam/investing/2017/03/10/JS122272751_wwwAlamycom_Edinburgh-Views-xlarge.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+header {
+  text-align: center;
+  color: white;
+}
+img{
+  height: 10%;
+    width: 50%;
+}
+ul {
+ padding: 10px;
+ background: purple;
+ font-family: helvetica, sans-serif;
+ text-align: center;
+ font-size: 20px;
+ color: #aaaaaa;
+ margin: 60px 0 0 0;
+}
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ color: white;
+}
+a {
+ color: white;
+}
+p {
+  background: purple;
+  font-family: helvetica, sans-serif;
+}
+h1 {
+  background: purple;
+  font-family: helvetica, sans-serif;
+
+
+}
+.first{
+  padding: 10px;
+  background: purple;
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  margin: 60px 0 0 0;
+  background-image: url("https://blonderestaurant.co.uk/wp-content/uploads/2012/04/blonde-restaurant-edinburgh.jpg");
+}
+.second{
+  padding: 10px;
+  background: purple;
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  margin: 60px 0 0 0;
+  background-image: url("http://www.dishoom.com/wp-content/uploads/2014/10/3.6.1.jpg");
+}
+.dessert{
+  padding: 10px;
+  background: purple;
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  margin: 60px 0 0 0;
+  background-image: url("http://greenmantlepub.co.uk/images/demo/GM/21950893_10154610965392126_2413542161214166713_o.jpg");
+}
+.price {
+  padding: 10px;
+  background: purple;
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 20px;
+  color: #aaaaaa;
+  margin: 60px 0 0 0;
+  float: right;
+}
