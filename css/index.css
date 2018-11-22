@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> 72abd401fb7f37107a40fbbd6fe3afef6f94780d
 body {
   text-align: center;
   background: url("https://www.telegraph.co.uk/content/dam/investing/2017/03/10/JS122272751_wwwAlamycom_Edinburgh-Views-xlarge.jpg");
@@ -9,6 +12,10 @@ body {
 header {
   text-align: center;
   color: white;
+}
+img{
+  height: 10%;
+    width: 50%;
 }
 ul {
  padding: 10px;
